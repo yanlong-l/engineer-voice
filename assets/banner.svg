@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">engineer-voice</title>
+  <desc id="desc">Technical writing. Precise, restrained, grounded. Keep facts. Cut filler.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#101c2e"/>
+      <stop offset="1" stop-color="#142c33"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#a9d7d0" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <rect x="60" y="62" width="5" height="234" rx="2" fill="#69dfbe"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="90" y="91" fill="#69dfbe" font-size="14" letter-spacing="3">A SKILL FOR TECHNICAL WRITING</text>
+    <text x="86" y="172" fill="#f0f6fa" font-size="61" font-weight="700" letter-spacing="-3">engineer-voice</text>
+    <text x="90" y="224" fill="#b4c6d4" font-size="20">Precise. Restrained. Grounded.</text>
+    <text x="90" y="284" fill="#69dfbe" font-size="16">Keep facts. Cut filler.</text>
+    <rect x="840" y="72" width="294" height="216" rx="12" fill="#0d1825" stroke="#34505a"/>
+    <circle cx="862" cy="94" r="4" fill="#fb9283"/>
+    <circle cx="878" cy="94" r="4" fill="#e7c77c"/>
+    <circle cx="894" cy="94" r="4" fill="#69dfbe"/>
+    <text x="862" y="142" fill="#7893a7" font-size="14">INDEPENDENT REWRITE PASS</text>
+    <text x="862" y="178" fill="#d4e3ed" font-size="15">facts        intact</text>
+    <text x="862" y="208" fill="#d4e3ed" font-size="15">trade-offs   intact</text>
+    <text x="862" y="250" fill="#69dfbe" font-size="15">ready for review_</text>
+  </g>
+</svg>
